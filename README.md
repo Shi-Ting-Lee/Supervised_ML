@@ -4,3 +4,4 @@
 
 - Lesson 2: Linear Regression
 - Lesson 3: Perceptron Algorithm
+- Lesson 4: Decision Tree
