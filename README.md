@@ -1,4 +1,4 @@
-# Supervised_ML
+# Udacity Nanodegree - Supervised Machine Learning
 
 ## Udacity - Machine Learning with Pytorch Nanodegree
 
