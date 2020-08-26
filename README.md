@@ -7,3 +7,4 @@
 - Lesson 4: Decision Tree
 - Lesson 5: Naive Bayes
 - Lesson 6: SVM
+- Lesson 7: Ensemble model
