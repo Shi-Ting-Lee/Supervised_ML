@@ -8,3 +8,4 @@
 - Lesson 5: Naive Bayes
 - Lesson 6: SVM
 - Lesson 7: Ensemble model
+- Lesson 8: Metrics
